@@ -1,8 +1,0 @@
-Script started on Sun Dec 11 16:47:41 2022
-]0;@deaf5e8e2aa7:/app[?2004h[root@deaf5e8e2aa7 app]# ls
-[?2004lDockerfile  main.py  requirements.txt  state.json  test.py  typescript	venv
-]0;@deaf5e8e2aa7:/app[?2004h[root@deaf5e8e2aa7 app]# hello
-[?2004lbash: hello: command not found
-]0;@deaf5e8e2aa7:/app[?2004h[root@deaf5e8e2aa7 app]# [?2004l
-exit
-Script done on Sun Dec 11 16:47:45 2022
